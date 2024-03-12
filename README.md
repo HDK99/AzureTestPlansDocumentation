@@ -7,7 +7,8 @@ Azure DevOps Documentation Repository
 Overview
 --------
 
-Welcome to the Azure DevOps Documentation Repository! This repository contains detailed guides and articles to help you navigate and utilize various features within Azure DevOps for effective project management, automation, and collaboration.
+Welcome to the Azure DevOps Test Plans Documentation Repository! This repository provides comprehensive guides and articles to help you effectively use Azure DevOps Test Plans for managing, automating, and collaborating on your testing processes.
+
 
 Table of Contents
 -----------------
@@ -44,7 +45,7 @@ Before diving into the documentation, ensure you have:
 Introduction to Obsidian
 ------------------------
 
-In addition to Azure DevOps documentation, this repository serves as a knowledge base for Obsidian. Obsidian is a powerful note-taking and knowledge management application.
+In addition to Azure DevOps documentation, this repository serves as a knowledge base for **Obsidian**. Obsidian is a powerful note-taking and knowledge management application.
 
 ### Obsidian Overview
 
@@ -71,6 +72,6 @@ We welcome contributions to enhance and expand this documentation repository. If
 License
 -------
 
-This documentation repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). Feel free to use, modify, and distribute the content with proper attribution.
+This documentation repository is licensed under the [MIT License]([https://choosealicense.com/licenses/mit/](https://github.com/HDK99/AzureTestPlansDocumentation/blob/main/README.md)). Feel free to use, modify, and distribute the content with proper attribution.
 
 Thank you for exploring the Azure DevOps Documentation Repository! If you have any questions or suggestions, don't hesitate to open an issue or reach out to discuss. Happy learning and collaborating!
