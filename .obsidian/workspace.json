@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "4b8471ef3cc5be42",
+    "type": "split",
+    "children": [
+      {
+        "id": "6911de1b51cc5d15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6805cb6e824c10d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure DevOps/Test Plans/Automated tests/Associate automated tests with test cases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8550b9ffe573b8ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "997bc5cb9efd302b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d620c8a320df5011",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6b7874e311ec7b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5117f1d726e58b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aaf3ba1deb7e2146",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dd491daba72cf87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ad69bb8f6e33a56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Azure DevOps/Test Plans/Automated tests/Associate automated tests with test cases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c36567509a3e276",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Azure DevOps/Test Plans/Automated tests/Associate automated tests with test cases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afdd5f019c7bdf1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b803d06587a3f64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Azure DevOps/Test Plans/Automated tests/Associate automated tests with test cases.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6805cb6e824c10d1",
+  "lastOpenFiles": [
+    "AzureTestPlansDocumentation/README.md",
+    "AzureTestPlansDocumentation/LICENSE",
+    "AzureTestPlansDocumentation",
+    "Azure DevOps/Test Plans/Get started/Create Test Plans and Test Suites.md",
+    "Azure DevOps/Test Plans/Get started/Create Test Cases.md",
+    "Azure DevOps/Test Plans/Get started/Navigate Test Plans.md",
+    "Azure DevOps/Test Plans/Get started/Permissions (Security).md",
+    "Azure DevOps/Test Plans/Get started/Bulk Import and Export Test Cases (CSV-XLSX).md",
+    "Azure DevOps/Test Plans/Get started/Copy-Clone Test Plans, Suites, Cases.md",
+    "README.md",
+    "Azure DevOps/Test Plans/Media/Pasted image 20240312131518.png",
+    "Azure DevOps/Test Plans/Automated tests/Associate automated tests with test cases.md",
+    "Azure DevOps/Test Plans/Automated tests/Run automated tests from test plans.md",
+    "Azure DevOps/Test Plans/Media/Pasted image 20240312130141.png",
+    "Azure DevOps/Test Plans/Media/Pasted image 20240312130139.png",
+    "Azure DevOps/Test Plans/Media/Pasted image 20240312130131.png",
+    "Azure DevOps/Test Plans/Media/Pasted image 20240312130129.png",
+    "Azure DevOps/Test Plans/Media/Pasted image 20240312130124.png",
+    "Azure DevOps/Test Plans/Media/Pasted image 20240312130112.png",
+    "Azure DevOps/Test Plans/Media/Pasted image 20240312130106.png",
+    "Azure DevOps/Test Plans/Media/Pasted image 20240312130057.png",
+    "Azure DevOps/Test Plans/Media/Pasted image 20240312130037.png",
+    "Azure DevOps/Test Plans/Manual tests/Set Test Retention Policies.md",
+    "Azure DevOps/Test Plans/Manual tests/Set Permissions and Access.md",
+    "Azure DevOps/Test Plans/Manual tests/Test Different Configurations.md",
+    "Azure DevOps/Test Plans/Manual tests/Test from the Kanban Board.md",
+    "Azure DevOps/Test Plans/Manual tests/Repeat a Test with Different DataP.md",
+    "Azure DevOps/Test Plans/Manual tests/Perform User Acceptance Testing.md",
+    "Azure DevOps/Test Plans/Manual tests/Manage Test Failure Type.md",
+    "Azure DevOps/Test Plans/Manual tests/Introduction.md",
+    "Azure DevOps/Test Plans/Manual tests/Delete Test Artifacts.md",
+    "Azure DevOps/Test Plans/Manual tests/Collect Diagnostic Data.md",
+    "Pasted image 20240306163107.md",
+    "Azure DevOps/Test Plans/Get started/Run Manual Tests.md",
+    "ReadMe.md",
+    "New Text Document.txt",
+    "Azure DevOps/Test Plans/Get started/Share Steps Between Test Cases.md",
+    "Azure DevOps/Test Plans/Get started/Test Objects and Terms.md",
+    "Azure DevOps/Test Plans/What Is Azure Test Plans.md",
+    "Azure DevOps/Test Plans/Media",
+    "Azure DevOps/Test Plans/Resources",
+    "Azure DevOps/Test Plans/REST API Reference",
+    "Azure DevOps/Test Plans/Reference",
+    "Azure DevOps/Test Plans/Troubleshooting",
+    "Azure DevOps/Test Plans/Track progress and results",
+    "Azure DevOps/Test Plans/Request & track feedback"
+  ]
+}
