@@ -1,5 +1,6 @@
 # AzureTestPlansDocumentation
-This repository is for Azure DevOps Test Plans Documentation, compatible with markdown format and Obsidian graphs
+This repository is for Azure DevOps Test Plans Documentation, compatible with markdown format and Obsidian graphs.
+Nb: In order to see the screenshots in the md format replace with the relative path to the image file Media folder.
 
 Azure DevOps Documentation Repository
 =====================================
